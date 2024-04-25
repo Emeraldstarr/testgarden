@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/distribution-of-cacti/","tags":["gardenEntry"],"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/distribution-of-cacti/","dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
+
 
 
 
